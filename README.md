@@ -22,9 +22,9 @@ Welcome to the Microsoft Financial Analaysis repository This project is focused 
 ### Prerequisites
 
 To run the Jupyter Notebook, you need to have the following installed:
-- Python 3.x
+- Python 3.11.4
 - Jupyter Notebook
-- Required Python libraries (listed in `requirements.txt`)
+- Required Python libraries 
 
 ### Installation
 
